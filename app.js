@@ -35,3 +35,14 @@ const isAdult = false;
 
 console.log(3 > 2); // > stand for is greater than
 console.log(3 < 2); // < stand for is less than
+console.log(3 >= 2); // >= stand for gt or equal to
+console.log(3 <= 2); // >= stand for lt or equal to
+console.log(3 == 3); // == stand for equal to
+console.log(3 === 3); // === stand for strictly equal to
+console.log(3 != 3); // != stand for not equal to
+
+// LOGICAL OPERATORS
+
+console.log(true && false);
+console.log(true || false);
+console.log(!true);
